@@ -106,7 +106,7 @@ body {
 .pic02{
 	width: 25%;
 	height:100vh;
-	background: url("../../../113/image/13.jpg");
+	background: url("../../../113/image/13.jpg"");
 	background-size: cover;
 	float: left;
 	margin-top: 30px;
